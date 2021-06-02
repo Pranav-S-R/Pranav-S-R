@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pranav-S-R
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Pranav Subramaniyan R
+- 👀 I’m interested in full-Stack Development
 - 🌱 I’m currently learning basics of HTML and CSS, yeh just started.
-- 📫 Reach me on 
+- 📫 Reach me on the following handles:
 
 LinkedIn - https://www.linkedin.com/in/pranav-subramaniyan-s-r-4947b720a
                  
